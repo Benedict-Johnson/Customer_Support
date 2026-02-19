@@ -1,0 +1,7 @@
+groq
+sentence-transformers
+faiss-cpu
+numpy
+fastapi
+uvicorn
+psycopg2-binary
