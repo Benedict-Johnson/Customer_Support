@@ -1,6 +1,6 @@
 .env
-__pycache__/
+**/__pycache__/
 *.pyc
-support.db
+backend/support.db
 *.sqlite
 *.sqlite3
