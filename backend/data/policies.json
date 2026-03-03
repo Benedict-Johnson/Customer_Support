@@ -1,0 +1,92 @@
+[
+  {
+    "id": "food_spoiled",
+    "title": "Spoiled / Rotten Food Policy",
+    "content": "If a customer reports spoiled, rotten, stale, expired, sour-smelling, moldy, or bad food (e.g., 'food was spoiled', 'smelled rotten', 'tasted sour', 'mold on bread'), apologize sincerely. Ask for photo proof if available (not mandatory for immediate action). Offer a full refund. If the same customer reports spoiled food more than twice in 30 days, escalate to human support for verification."
+  },
+  {
+    "id": "food_tampered",
+    "title": "Tampered / Opened Food Safety Policy",
+    "content": "If a customer says food looks tampered, opened, half-eaten, seal broken, packet opened, tape removed, or suspicious (e.g., 'seal was broken', 'box was opened', 'food looked touched'), apologize immediately. Offer a full refund without delay. Escalate to safety team. Mark the delivery partner for investigation."
+  },
+  {
+    "id": "late_delivery",
+    "title": "Late Delivery / Delay Policy",
+    "content": "If delivery is delayed beyond ETA (e.g., 'late', 'delayed', 'took too long', 'arrived after 1 hour'), apply time-based refunds: if more than 45 minutes late beyond estimated time, offer 30% refund; if more than 90 minutes late, offer full refund."
+  },
+  {
+    "id": "wrong_item",
+    "title": "Wrong Item / Incorrect Order / Missing Item Policy",
+    "content": "If a customer receives the wrong item, wrong meal, swapped dish, incorrect order, or missing item (e.g., 'veg wrap instead of chicken wrap', 'got paneer instead of chicken', 'wrong burger', 'missing fries', 'missing drink', 'received someone else’s order'), apologize sincerely. Offer replacement (redelivery) OR full refund. Ask whether they prefer refund or redelivery. Escalate if repeated more than twice in 30 days."
+  },
+  {
+    "id": "allergy_issue",
+    "title": "Allergy / Allergen Safety Policy",
+    "content": "If a customer reports an allergy issue or allergic reaction (e.g., 'peanut allergy', 'got nuts even though I asked no nuts', 'hives', 'breathing issue'), apologize immediately—this is a safety priority. If the order contains an allergen they asked to exclude, offer an immediate full refund. If the customer reports a medical reaction, escalate to emergency safety team and human support instantly and advise seeking medical help."
+  },
+  {
+    "id": "driver_misconduct",
+    "title": "Delivery Partner Misconduct / Rude Driver Policy",
+    "content": "If a customer reports driver misconduct, rude behavior, harassment, threatening language, unsafe conduct, or unprofessional behavior (e.g., 'driver yelled', 'driver was aggressive', 'driver refused to deliver', 'driver demanded extra money'), apologize sincerely. If the driver was aggressive/unsafe, escalate to logistics management immediately. If the issue is rudeness or not following delivery instructions, offer a 20% discount voucher for next order and log for review."
+  },
+  {
+    "id": "payment_billing",
+    "title": "Payment / Billing Error / Overcharged Policy",
+    "content": "If a customer reports payment issues or billing errors (e.g., 'charged twice', 'double charged', 'payment deducted but order failed', 'overcharged', 'extra amount'), verify order total and transaction(s). If double payment or incorrect billing amount occurred, initiate a refund to the original payment method. For promo code / discount / card error questions, provide billing FAQ guidance. Escalate complex disputes (chargeback threats, repeated failures) to finance team."
+  },
+  {
+    "id": "missing_entire_order",
+    "title": "Order Not Delivered / Non-Delivery Policy",
+    "content": "If an entire order is missing or never delivered despite being marked delivered/completed (e.g., 'not received', 'delivered but not to me', 'wrong address', 'no delivery'), apologize. Check delivery proof and driver GPS at delivery time if available. If the order cannot be located or was delivered to the wrong address, offer full refund OR free redelivery. If the same customer reports missing orders more than twice, escalate to fraud prevention review."
+  },
+  {
+    "id": "packaging_defect",
+    "title": "Packaging Damage / Leakage Policy",
+    "content": "If a customer reports packaging defects (e.g., 'container broken', 'box crushed', 'sauce leaked', 'bag torn', 'spill in bag'), apologize. If the packaging failure caused food to spill / become inedible, offer full refund. If damage is cosmetic only (minor dent, label issue) and food is edible, offer 10% discount."
+  },
+  {
+    "id": "item_quality_texture",
+    "title": "Food Quality / Texture Issues Policy",
+    "content": "If a customer complains about food quality or texture (e.g., 'soggy fries', 'stale bread', 'rubbery chicken', 'undercooked', 'overcooked', 'too oily', 'inedible'), apologize. Offer 50% refund OR replacement. If the customer says food was inedible/unfit to eat, offer full refund."
+  },
+  {
+    "id": "technical_app_error",
+    "title": "App / Technical Issue Policy",
+    "content": "If a customer reports technical errors (e.g., app crash, payment page stuck, checkout failed, GPS tracking not updating, address not saving, order not placing), apologize. Confirm whether it prevented ordering or tracking. If a technical glitch caused failed order/delivery or payment deducted with failure, offer refund. Escalate persistent bugs and reproducible issues to engineering team."
+  },
+  {
+    "id": "temperature_issue",
+    "title": "Food Temperature Issue Policy",
+    "content": "If a customer reports temperature issues (e.g., 'hot food arrived cold', 'ice cream melted', 'cold drink warm'), apologize. If temperature issue is due to delivery delay (over 30 minutes late), offer full refund. If delivery was on time but temperature is poor, offer 30% discount."
+  },
+  {
+    "id": "dietary_preference_violation",
+    "title": "Dietary Preference / Veg-Nonveg Mix-up Policy",
+    "content": "If a customer receives a meal violating a non-allergy dietary preference (e.g., meat in vegetarian dish, veg vs non-veg mix-up, non-halal meat, pork/beef issues), apologize sincerely. Offer replacement or full refund. This applies to religious/ethical/lifestyle preferences (not medical allergy). Example: 'I ordered veg but got chicken', 'paneer order had meat pieces'."
+  },
+  {
+    "id": "missing_utensils_condiments",
+    "title": "Missing Utensils / Condiments Policy",
+    "content": "If a customer reports missing add-ons like utensils, straws, napkins, ketchup, sauce packets, chutney, or cutlery, apologize. Offer a small credit (equivalent of $2–$5). Do not offer full refunds for missing low-value add-ons."
+  },
+  {
+    "id": "subscription_billing",
+    "title": "Subscription / Pro / Gold Billing Policy",
+    "content": "If a customer asks about subscription charges (e.g., 'Pro/Gold charged', 'trial ended and charged', 'monthly fee unexpected', 'cancel subscription'), explain cancellation steps. If charged after a trial ended unexpectedly, offer a one-time courtesy refund of the subscription fee and escalate to accounts team for audit."
+  },
+  {
+    "id": "promotion_issue",
+    "title": "Promo / Voucher / BOGO Issue Policy",
+    "content": "If a voucher/promo code is not working or a deal not honored (e.g., 'promo not applying', 'BOGO missing', 'discount not reflected'), apologize. If customer provides proof (screenshot of valid promo / terms), apply discount as account credit or adjust bill as per process."
+  },
+  {
+    "id": "restaurant_service_complaint",
+    "title": "Restaurant Service / Portion / Photo Mismatch Policy",
+    "content": "If a customer complains about restaurant preparation issues (e.g., portion too small, food looks nothing like photo, missing toppings, wrong spice level, poor presentation), apologize. Log feedback against restaurant partner. If portion is significantly smaller than advertised, offer 20% discount."
+  },
+  {
+    "id": "environmental_policy",
+    "title": "Sustainability / Excess Packaging Policy",
+    "content": "If a customer complains about excessive plastic or receiving cutlery despite opting out (e.g., 'too much plastic', 'sent cutlery even though I opted out'), apologize and log feedback for sustainability team. This does not qualify for a refund; provide acknowledgement and commitment to improve."
+  }
+]

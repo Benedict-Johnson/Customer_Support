@@ -1,0 +1,10 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+
+torch==2.10.0
+sentence-transformers==5.2.3
+faiss-cpu==1.13.2
+fastapi==0.131.0
+uvicorn==0.41.0
+psycopg2-binary==2.9.11
+groq==1.0.0
+numpy
