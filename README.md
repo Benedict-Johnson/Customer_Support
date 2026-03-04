@@ -478,6 +478,9 @@ A significant portion of edge-case or unusual complaints trigger the `"Your comp
 
 **Benny's Eats** is a **demonstration project only**. It is not a real food delivery service. No orders can be placed, no deliveries are made, and no payments are processed. This project exists solely to demonstrate how AI-powered customer support agents can be integrated into a real-world product interface.
 
+> **🌐 Website not loading?** The frontend may be temporarily down due to free-tier hosting limitations on Vercel.
+
+> **🤖 AI not responding or always saying "Requires human review"?** The backend is hosted on Render's free tier, which **spins down after inactivity**. The first request after a period of inactivity can take **up to 60 seconds** to wake the server back up. Please wait a moment and try again.
 ---
 
 ## 🙌 Acknowledgements
