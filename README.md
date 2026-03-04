@@ -9,6 +9,9 @@
 powered by RAG, LLaMA 3.3, and the Groq API.**
 
 <img width="1897" height="893" alt="image" src="https://github.com/user-attachments/assets/71b004d9-f758-47ce-be27-4222639849ab" />
+**An intelligent customer support system embedded in a food delivery demo app,  
+powered by RAG, LLaMA 3.3, and the Groq API.**
+
 <img width="1896" height="820" alt="image" src="https://github.com/user-attachments/assets/4e5d0a02-8c89-4c8e-8260-1fad642dd262" />
 <img width="1570" height="682" alt="image" src="https://github.com/user-attachments/assets/64e2df3e-649f-4c96-9d5b-c514b5a938dc" />
 <img width="1556" height="727" alt="image" src="https://github.com/user-attachments/assets/e9d0453d-2499-4d34-8071-0eb14b3c6ea5" />
