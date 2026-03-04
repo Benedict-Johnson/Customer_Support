@@ -480,7 +480,7 @@ A significant portion of edge-case or unusual complaints trigger the `"Your comp
 
 > **🌐 Website not loading?** The frontend may be temporarily down due to free-tier hosting limitations on Vercel.
 
-> **🤖 AI not responding or always saying "Requires human review"?** The backend is hosted on Render's free tier, which **spins down after inactivity**. The first request after a period of inactivity can take **up to 60 seconds** to wake the server back up. Please wait a moment and try again.
+> **🤖 AI not responding or always saying "Requires human review"?** The backend is hosted on Render's free tier, which **spins down after inactivity**. **Contact author** to wake the server back up.
 ---
 
 ## 🙌 Acknowledgements
