@@ -28,7 +28,7 @@ powered by RAG, LLaMA 3.3, and the Groq API.**
 
 | Normal Policy Response | Escalated to Human | Human Review |
 |:-:|:-:|:-:|
-| <img width="400" alt="Normal Policy Response" src="https://github.com/user-attachments/assets/7bf329da-f4f8-458e-a43a-f3b29a52c3fc" /> | <img width="400" alt="Escalated to Human" src="https://github.com/user-attachments/assets/3d8c8c7c-caea-4cad-81f2-af8cd65ac307" /> | <img width="400" alt="Human Review" src="https://github.com/user-attachments/assets/36999f2c-0c81-4286-bbdf-74433b6e04d5" /> |
+| <img width="400" alt="Normal Policy Response" src="https://github.com/user-attachments/assets/7bf329da-f4f8-458e-a43a-f3b29a52c3fc" /> | <img width="400" alt="Escalated to Human" src="https://github.com/user-attachments/assets/3d8c8c7c-caea-4cad-81f2-af8cd65ac307" /> | <img width="902" height="847" alt="image" src="https://github.com/user-attachments/assets/b705b6b3-7872-4879-9d2e-e9f312dc65d5" /> |
 | *AI resolves complaint using matched policy* | *AI resolves another complaint using matched policy* | *Low-confidence query escalated for human review* |
 
 </div>
