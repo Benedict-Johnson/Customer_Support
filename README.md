@@ -19,7 +19,7 @@ powered by RAG, LLaMA 3.3, and the Groq API.**
 
 ## 🌐 Live Website
 
-> **🔗 [https://your-project-url.vercel.app](https://customer-support-myf6ozs7i-benedict-johnsons-projects.vercel.app/)**
+> **🔗 [[https://your-project-url.vercel.app](https://customer-support-myf6ozs7i-benedict-johnsons-projects.vercel.app/)](https://customer-support-myf6ozs7i-benedict-johnsons-projects.vercel.app/)**
 ---
 
 ## 📸 Sample Output
